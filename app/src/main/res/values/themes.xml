@@ -1,0 +1,19 @@
+<resources>
+    <style name="LoginTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+    <!-- Colors -->
+    <color name="colorPrimary">my_primary</color> <!-- Blue -->
+    <color name="colorPrimaryDark">my_primary</color> <!-- Darker Blue -->
+    <color name="colorAccent">my_primary</color> <!-- Pink -->
+
+    <color name="colorBackground">my_secondary</color> <!-- White -->
+    <color name="colorTextPrimary">my_secondary</color> <!-- Black -->
+    <color name="colorTextSecondary">#757575</color> <!-- Gray -->
+
+    <!-- Style for the login page -->
+
+        <item name="android:windowBackground">@color/my_primary</item>
+    </style>
+
+    <!-- Add more styles as needed -->
+
+</resources>
